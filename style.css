@@ -1,0 +1,16 @@
+#contact-details {
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contact-item .icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
